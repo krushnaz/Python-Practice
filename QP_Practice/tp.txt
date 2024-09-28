@@ -1,0 +1,6 @@
+fucntion arguments 
+1. position arguments
+2. keywords arguments
+3. default arguments
+4. variable length arguments - tuple
+5. keyword variable-length arguments - dict
